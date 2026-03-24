@@ -20,6 +20,12 @@
 
             SemanticScreenReader.Announce(CounterBtn.Text);
         }
+
+        private void MetodoDePrueba()
+        {
+            // Este es el método que hizo mi compa desde su casa
+            string saludo = "Hola";
+        }
     }
 
 }
