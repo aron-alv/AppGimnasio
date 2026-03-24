@@ -23,6 +23,12 @@
 
         private void MetodoDePrueba()
         {
+            // Este es el método que yo hice en mi compu
+            int x = 10;
+        }
+
+        private void MetodoDePrueba2()
+        {
             // Este es el método que hizo mi compa desde su casa
             string saludo = "Hola";
         }
