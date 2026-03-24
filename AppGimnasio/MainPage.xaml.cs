@@ -20,6 +20,12 @@
 
             SemanticScreenReader.Announce(CounterBtn.Text);
         }
+
+        private void MetodoDePrueba()
+        {
+            // Este es el método que yo hice en mi compu
+            int x = 10;
+        }
     }
 
 }
