@@ -8,5 +8,10 @@
             Text="Hola Aron Alvarez!"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
+        <Image
+     Source="imagen2.png"
+     HeightRequest="185"
+     Aspect="AspectFit"
+     SemanticProperties.Description="dot net bot in a race car number eight" />
     </VerticalStackLayout>
 </ContentPage>
