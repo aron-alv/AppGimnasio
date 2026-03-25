@@ -36,8 +36,12 @@
 
 
 
-
-
+       
+              private void rama2()
+        {
+            // Este es el método que hizo mi compa desde su casa
+            string saludo = "Hola";
+        }
 
 
 
